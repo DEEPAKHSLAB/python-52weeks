@@ -23,3 +23,4 @@ pprint(device)
 print("\n_____ FOR LOOP, USING F-STRING ____________________")
 for key, value in device.items():
     print(f"{key:>16s} : {value}")
+    
